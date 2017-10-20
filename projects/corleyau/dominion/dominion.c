@@ -731,6 +731,8 @@ int feastEffect(int currentPlayer, struct gameState *state, int choice1)
             {
                 printf("Cards Left: %d\n", supplyCount(choice1, state));
             }
+
+	    return -1;
         }
         else if (state->coins < getCost(choice1))
         {
@@ -740,6 +742,8 @@ int feastEffect(int currentPlayer, struct gameState *state, int choice1)
             {
                 printf("Coins: %d < %d\n", state->coins, getCost(choice1));
             }
+
+	    return -1;
         }
         else{
 

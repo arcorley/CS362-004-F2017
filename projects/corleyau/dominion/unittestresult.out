@@ -1,0 +1,300 @@
+
+-------------------- Testing whoseTurn Function --------------------
+TEST 1: Returned value == game state value
+Returned value = 0, expected = 0
+Passed test
+
+TEST 2: Game state should not change at all
+Game states matched
+Passed test
+
+TEST 3: Returned value should match game state value after changing whoseTurn
+Returned value 1, expected = 1
+Passed test
+
+ >>>>> SUCCESS: whoseTurn testing complete <<<<<
+
+File 'dominion.c'
+Lines executed:15.89% of 560
+Creating 'dominion.c.gcov'
+
+
+-------------------- Testing handCard Function --------------------
+TEST 1: Returned value == game state value at all values of hand position
+Returned value = 4, expected = 4
+Passed test
+Returned value = 4, expected = 4
+Passed test
+Returned value = 1, expected = 1
+Passed test
+Returned value = 4, expected = 4
+Passed test
+Returned value = 4, expected = 4
+Passed test
+
+TEST 2: Game state should not change at all
+Game states matched
+Passed test
+
+TEST 3: Returned value should match game state value after changing currentPlayer
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+Returned value = 0, expected = 0
+Passed test
+
+ >>>>> SUCCESS: handCard testing complete <<<<<
+
+File 'dominion.c'
+Lines executed:16.43% of 560
+Creating 'dominion.c.gcov'
+
+
+-------------------- Testing shuffle Function --------------------
+TEST 1: Player's deck should change order
+Card in position 0: 1, Value Pre Shuffle: 1. No difference.
+Card in position 1: 4, Value Pre Shuffle: 4. No difference.
+Card in position 2: 4, Value Pre Shuffle: 4. No difference.
+Card in position 3: 4, Value Pre Shuffle: 1. Difference found.
+Card in position 4: 1, Value Pre Shuffle: 4. Difference found.
+Passed test
+
+TEST 2: Return -1 if there are no cards in deck
+Returned: -1, Expected: -1
+Passed test
+
+TEST 3: Player's deck count should remain unchanged
+New deck count: 5, Expected: 5
+Passed test
+
+ >>>>> SUCCESS: shuffle testing complete <<<<<
+
+File 'dominion.c'
+Lines executed:15.89% of 560
+Creating 'dominion.c.gcov'
+
+
+-------------------- Testing isGameOver Function --------------------
+TEST 1: province supply == 0
+Game over: 1, Expected: 1
+Passed test
+
+TEST 2: all supplies > 0
+Game over: 0, Expected: 0
+Passed test
+
+TEST 3: first 3 supply cards = 0, province > 0
+Game over: 1, Expected: 1
+Passed test
+
+TEST 4: last 3 supply cards = 0, province > 0
+Game over: 0, Expected: 1
+Failed test: gameOver not 1
+
+ >>>>> FAILURE: at least one test failed <<<<<
+
+File 'dominion.c'
+Lines executed:17.32% of 560
+Creating 'dominion.c.gcov'
+
+----------------- Testing Card: smithy ----------------
+TEST 1: current player receives 3 cards
+hand count = 8, expected = 7
+Failed test: hand counts don't match
+
+TEST 2: the 3 cards should come from player's own hand
+deck count = 1, expected = 2
+Failed test: deck counts don't match
+
+TEST 3: no state change for other players
+other player hand count =  0, expected = 0
+Passed test
+other player deck count = 10, expected = 10
+Passed test
+
+TEST 4: no state change for victory card pile or kingdom card pile
+Beginning victory card test:
+estate card count = 8, expected = 8
+Passed test
+duchy card count = 8, expected = 8
+Passed test
+province card count = 8, expected = 8
+Passed test
+
+Beginning kingdom card count test:
+kingdom card 0 count = 10, expected = 10
+Passed test
+kingdom card 1 count = 10, expected = 10
+Passed test
+kingdom card 2 count = 10, expected = 10
+Passed test
+kingdom card 3 count = 10, expected = 10
+Passed test
+kingdom card 4 count = 10, expected = 10
+Passed test
+kingdom card 5 count = 10, expected = 10
+Passed test
+kingdom card 6 count = 10, expected = 10
+Passed test
+kingdom card 7 count = 10, expected = 10
+Passed test
+kingdom card 8 count = 10, expected = 10
+Passed test
+kingdom card 9 count = 10, expected = 10
+Passed test
+
+ >>>>> FAILURE: at least one test failed <<<<<
+
+File 'dominion.c'
+Lines executed:20.00% of 560
+Creating 'dominion.c.gcov'
+
+----------------- Testing Card: adventurer ----------------
+TEST 1: current player receives 2 treasure cards
+treasure card count = 6, expected = 6
+Passed test
+
+TEST 2: non-treasure cards drawn are discarded (hand only grows by 2)
+hand count = 7, expected = 7
+Passed test
+
+TEST 3: no state change for other players
+other player hand count =  0, expected = 0
+Passed test
+other player deck count = 10, expected = 10
+Passed test
+
+TEST 4: no state change for victory card pile or kingdom card pile
+Beginning victory card test:
+estate card count = 8, expected = 8
+Passed test
+duchy card count = 8, expected = 8
+Passed test
+province card count = 8, expected = 8
+Passed test
+
+Beginning kingdom card count test:
+kingdom card 0 count = 10, expected = 10
+Passed test
+kingdom card 1 count = 10, expected = 10
+Passed test
+kingdom card 2 count = 10, expected = 10
+Passed test
+kingdom card 3 count = 10, expected = 10
+Passed test
+kingdom card 4 count = 10, expected = 10
+Passed test
+kingdom card 5 count = 10, expected = 10
+Passed test
+kingdom card 6 count = 10, expected = 10
+Passed test
+kingdom card 7 count = 10, expected = 10
+Passed test
+kingdom card 8 count = 10, expected = 10
+Passed test
+kingdom card 9 count = 10, expected = 10
+Passed test
+
+ >>>>> SUCCESS: adventurer testing complete <<<<<
+
+File 'dominion.c'
+Lines executed:20.36% of 560
+Creating 'dominion.c.gcov'
+
+----------------- Testing Card: village ----------------
+TEST 1: current player receives 1 card
+hand count = 5, expected = 5
+Passed test
+
+TEST 2: the drawn card should come from player's own hand
+deck count = 4, expected = 4
+Passed test
+
+TEST 3: current player receives 2 actions
+action count = 4, expected = 3
+Failed test: number of actions don't match
+
+TEST 4: no state change for other players
+other player hand count =  0, expected = 0
+Passed test
+other player deck count = 10, expected = 10
+Passed test
+
+TEST 5: no state change for victory card pile or kingdom card pile
+Beginning victory card test:
+estate card count = 8, expected = 8
+Passed test
+duchy card count = 8, expected = 8
+Passed test
+province card count = 8, expected = 8
+Passed test
+
+Beginning kingdom card count test:
+kingdom card 0 count = 10, expected = 10
+Passed test
+kingdom card 1 count = 10, expected = 10
+Passed test
+kingdom card 2 count = 10, expected = 10
+Passed test
+kingdom card 3 count = 10, expected = 10
+Passed test
+kingdom card 4 count = 10, expected = 10
+Passed test
+kingdom card 5 count = 10, expected = 10
+Passed test
+kingdom card 6 count = 10, expected = 10
+Passed test
+kingdom card 7 count = 10, expected = 10
+Passed test
+kingdom card 8 count = 10, expected = 10
+Passed test
+kingdom card 9 count = 10, expected = 10
+Passed test
+
+ >>>>> FAILURE: at least one test failed <<<<<
+
+File 'dominion.c'
+Lines executed:20.00% of 560
+Creating 'dominion.c.gcov'
+
+----------------- Testing Card: feast ----------------
+TEST 1: current player receives a 5 value card
+discard count = 1, expected = 1
+Passed test
+discard value 5 cards = 1, expected = 1
+Passed test
+
+TEST 2: feast card is trashed after use
+number of feast cards = 1, expected = 0
+Failed test: number of feast cards didn't decrease by 1
+
+TEST 3: cannot buy a >5 value card
+That card is too expensive!
+num >5 value cards = 0, expected = 0
+Passed test
+
+TEST 4: cannot buy a card that has 0 supply
+num duchy cards = 0, expected = 0
+Passed test
+
+ >>>>> FAILURE: at least one test failed <<<<<
+
+File 'dominion.c'
+Lines executed:23.39% of 560
+Creating 'dominion.c.gcov'
+
