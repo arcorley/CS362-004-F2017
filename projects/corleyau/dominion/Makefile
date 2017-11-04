@@ -24,6 +24,24 @@ testAll: dominion.o testSuite.c
 interface.o: interface.h interface.c
 	gcc -c interface.c -g  $(CFLAGS)
 
+randomTests: randomtestadventurer.c randomtestcard1.c randomtestcard2.c dominion.o rngs.o
+	gcc -o randomTestAdventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
+	gcc -o randomTest1 -g randomtestcard1.c dominion.o rngs.o $(CFLAGS)
+	gcc -o randomTest2 -g randomtestcard2.c dominion.o rngs.o $(CFLAGS)
+
+randomtests.out: randomtestadventurer.c randomtestcard1.c randomtestcard2.c dominion.o rngs.o
+	./randomTestAdventurer &> randomtestadventurer.out
+	gcov -f dominion.c >> randomtestadventurer.out
+	rm -f dominion.c.gcov dominion.gcda
+	
+	./randomTest1 &> randomtestcard1.out
+	gcov -f dominion.c >> randomtestcard1.out
+	rm -f dominon.c.gcov dominion.gcda
+	
+	./randomTest2 &> randomtestcard2.out
+	gcov -f dominion.c >> randomtestcard2.out
+	rm -f dominion.c.gcov dominion.gcda
+
 unitTests: unittest1.c  unittest2.c  unittest3.c  unittest4.c dominion.o rngs.o
 	gcc -o unitTest1 -g unittest1.c dominion.o rngs.o $(CFLAGS)
 	gcc -o unitTest2 -g unittest2.c dominion.o rngs.o $(CFLAGS)

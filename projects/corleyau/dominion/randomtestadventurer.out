@@ -1,0 +1,185 @@
+----------------- Testing Card: adventurer ----------------
+----------------- Failure Details: ----------------
+Seed: 8072
+Player: 0
+Before Hand Count: 436
+After Hand Count: 437
+Deck Count: 4
+Discard Count: 204
+
+----------------- Failure Details: ----------------
+Seed: 1886
+Player: 1
+Before Hand Count: 293
+After Hand Count: -495
+Deck Count: 0
+Discard Count: 279
+
+----------------- Failure Details: ----------------
+Seed: 8265
+Player: 0
+Before Hand Count: 281
+After Hand Count: 282
+Deck Count: 2
+Discard Count: 395
+
+----------------- Failure Details: ----------------
+Seed: 4436
+Player: 0
+Before Hand Count: 5
+After Hand Count: 5
+Deck Count: 0
+Discard Count: 453
+
+----------------- Failure Details: ----------------
+Seed: 7685
+Player: 0
+Before Hand Count: 168
+After Hand Count: 169
+Deck Count: 2
+Discard Count: 316
+
+----------------- Failure Details: ----------------
+Seed: 2036
+Player: 0
+Before Hand Count: 28
+After Hand Count: 5
+Deck Count: 0
+Discard Count: 62
+
+----------------- Failure Details: ----------------
+Seed: 1821
+Player: 0
+Before Hand Count: 316
+After Hand Count: 317
+Deck Count: 2
+Discard Count: 492
+
+----------------- Failure Details: ----------------
+Seed: 3050
+Player: 0
+Before Hand Count: 257
+After Hand Count: 5
+Deck Count: 0
+Discard Count: 155
+
+----------------- Failure Details: ----------------
+Seed: 8556
+Player: 0
+Before Hand Count: 226
+After Hand Count: 227
+Deck Count: 3
+Discard Count: 275
+
+----------------- Failure Details: ----------------
+Seed: 1276
+Player: 1
+Before Hand Count: 188
+After Hand Count: 189
+Deck Count: 3
+Discard Count: 216
+
+----------------- Failure Details: ----------------
+Seed: 658
+Player: 1
+Before Hand Count: 286
+After Hand Count: -495
+Deck Count: 0
+Discard Count: 224
+
+----------------- Failure Details: ----------------
+Seed: 2039
+Player: 0
+Before Hand Count: 396
+After Hand Count: 5
+Deck Count: 0
+Discard Count: 477
+
+Number of errors found: 12
+Number of tests conducted: 2000
+----------------- Testing Complete ----------------
+Function 'updateCoins'
+Lines executed:81.82% of 11
+
+Function 'gainCard'
+Lines executed:61.54% of 13
+
+Function 'discardCard'
+Lines executed:100.00% of 13
+
+Function 'cardEffect'
+Lines executed:5.18% of 193
+
+Function 'stewardEffect'
+Lines executed:100.00% of 10
+
+Function 'feastEffect'
+Lines executed:100.00% of 18
+
+Function 'villageEffect'
+Lines executed:0.00% of 5
+
+Function 'smithyEffect'
+Lines executed:0.00% of 5
+
+Function 'adventurerEffect'
+Lines executed:100.00% of 17
+
+Function 'getCost'
+Lines executed:63.33% of 30
+
+Function 'drawCard'
+Lines executed:100.00% of 22
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+
+Function 'whoseTurn'
+Lines executed:100.00% of 2
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+
+Function 'supplyCount'
+Lines executed:100.00% of 2
+
+Function 'handCard'
+Lines executed:0.00% of 3
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+
+Function 'playCard'
+Lines executed:0.00% of 14
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+
+Function 'initializeGame'
+Lines executed:80.65% of 62
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+
+Function 'newGame'
+Lines executed:0.00% of 3
+
+Function 'compare'
+Lines executed:100.00% of 6
+
+File 'dominion.c'
+Lines executed:36.07% of 560
+Creating 'dominion.c.gcov'
+

@@ -1,0 +1,5945 @@
+----------------- Testing Card: steward ----------------
+----------------- Failure Details: ----------------
+Seed: 61
+Player: 1
+Choice 1: 2
+Choice 2: 45
+Choice 3: 60
+Deck Count: 108
+Discard Count: 450
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 84
+Player: 0
+Choice 1: 2
+Choice 2: 165
+Choice 3: 136
+Deck Count: 202
+Discard Count: 247
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6734
+Player: 1
+Choice 1: 2
+Choice 2: 156
+Choice 3: 206
+Deck Count: 277
+Discard Count: 1
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6866
+Player: 0
+Choice 1: 2
+Choice 2: 36
+Choice 3: 49
+Deck Count: 294
+Discard Count: 22
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4049
+Player: 0
+Choice 1: 2
+Choice 2: 300
+Choice 3: 156
+Deck Count: 167
+Discard Count: 130
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8890
+Player: 0
+Choice 1: 2
+Choice 2: 136
+Choice 3: 384
+Deck Count: 126
+Discard Count: 233
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8634
+Player: 0
+Choice 1: 2
+Choice 2: 368
+Choice 3: 289
+Deck Count: 467
+Discard Count: 64
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 2721
+Player: 0
+Choice 1: 2
+Choice 2: 119
+Choice 3: 212
+Deck Count: 253
+Discard Count: 389
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2933
+Player: 1
+Choice 1: 2
+Choice 2: 387
+Choice 3: 156
+Deck Count: 407
+Discard Count: 151
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7315
+Player: 1
+Choice 1: 2
+Choice 2: 72
+Choice 3: 27
+Deck Count: 458
+Discard Count: 190
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8329
+Player: 0
+Choice 1: 2
+Choice 2: 85
+Choice 3: 0
+Deck Count: 185
+Discard Count: 312
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9786
+Player: 1
+Choice 1: 2
+Choice 2: 107
+Choice 3: 67
+Deck Count: 3
+Discard Count: 141
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8738
+Player: 0
+Choice 1: 2
+Choice 2: 88
+Choice 3: 195
+Deck Count: 148
+Discard Count: 218
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2059
+Player: 1
+Choice 1: 2
+Choice 2: 33
+Choice 3: 125
+Deck Count: 186
+Discard Count: 301
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3816
+Player: 1
+Choice 1: 2
+Choice 2: 53
+Choice 3: 144
+Deck Count: 236
+Discard Count: 424
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4357
+Player: 1
+Choice 1: 2
+Choice 2: 3
+Choice 3: 8
+Deck Count: 298
+Discard Count: 340
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9827
+Player: 1
+Choice 1: 2
+Choice 2: 91
+Choice 3: 84
+Deck Count: 472
+Discard Count: 284
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3625
+Player: 1
+Choice 1: 2
+Choice 2: 32
+Choice 3: 49
+Deck Count: 179
+Discard Count: 336
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 60
+Player: 0
+Choice 1: 2
+Choice 2: 0
+Choice 3: 0
+Deck Count: 216
+Discard Count: 44
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 4926
+Player: 0
+Choice 1: 2
+Choice 2: 58
+Choice 3: 71
+Deck Count: 185
+Discard Count: 348
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1421
+Player: 1
+Choice 1: 2
+Choice 2: 17
+Choice 3: 211
+Deck Count: 64
+Discard Count: 444
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7508
+Player: 1
+Choice 1: 2
+Choice 2: 88
+Choice 3: 98
+Deck Count: 218
+Discard Count: 45
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8246
+Player: 1
+Choice 1: 2
+Choice 2: 80
+Choice 3: 301
+Deck Count: 185
+Discard Count: 157
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2756
+Player: 0
+Choice 1: 2
+Choice 2: 28
+Choice 3: 66
+Deck Count: 239
+Discard Count: 35
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1260
+Player: 0
+Choice 1: 2
+Choice 2: 150
+Choice 3: 158
+Deck Count: 223
+Discard Count: 117
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1012
+Player: 0
+Choice 1: 2
+Choice 2: 381
+Choice 3: 327
+Deck Count: 343
+Discard Count: 133
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7942
+Player: 1
+Choice 1: 2
+Choice 2: 37
+Choice 3: 32
+Deck Count: 457
+Discard Count: 313
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4330
+Player: 0
+Choice 1: 2
+Choice 2: 194
+Choice 3: 129
+Deck Count: 66
+Discard Count: 340
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5281
+Player: 0
+Choice 1: 2
+Choice 2: 115
+Choice 3: 108
+Deck Count: 320
+Discard Count: 450
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1216
+Player: 1
+Choice 1: 2
+Choice 2: 154
+Choice 3: 369
+Deck Count: 305
+Discard Count: 250
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 5440
+Player: 1
+Choice 1: 2
+Choice 2: 165
+Choice 3: 114
+Deck Count: 3
+Discard Count: 395
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8070
+Player: 0
+Choice 1: 2
+Choice 2: 102
+Choice 3: 106
+Deck Count: 132
+Discard Count: 156
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5243
+Player: 1
+Choice 1: 2
+Choice 2: 135
+Choice 3: 60
+Deck Count: 118
+Discard Count: 16
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4390
+Player: 0
+Choice 1: 2
+Choice 2: 21
+Choice 3: 55
+Deck Count: 268
+Discard Count: 72
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9778
+Player: 1
+Choice 1: 2
+Choice 2: 2
+Choice 3: 39
+Deck Count: 449
+Discard Count: 146
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9711
+Player: 0
+Choice 1: 2
+Choice 2: 313
+Choice 3: 4
+Deck Count: 471
+Discard Count: 492
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3189
+Player: 0
+Choice 1: 2
+Choice 2: 34
+Choice 3: 111
+Deck Count: 76
+Discard Count: 313
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4311
+Player: 1
+Choice 1: 2
+Choice 2: 73
+Choice 3: 157
+Deck Count: 168
+Discard Count: 158
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2212
+Player: 1
+Choice 1: 2
+Choice 2: 3
+Choice 3: 16
+Deck Count: 346
+Discard Count: 301
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1007
+Player: 0
+Choice 1: 2
+Choice 2: 232
+Choice 3: 119
+Deck Count: 243
+Discard Count: 367
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8421
+Player: 0
+Choice 1: 2
+Choice 2: 456
+Choice 3: 415
+Deck Count: 426
+Discard Count: 151
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9543
+Player: 0
+Choice 1: 2
+Choice 2: 237
+Choice 3: 61
+Deck Count: 465
+Discard Count: 121
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2153
+Player: 1
+Choice 1: 2
+Choice 2: 198
+Choice 3: 49
+Deck Count: 335
+Discard Count: 309
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1184
+Player: 0
+Choice 1: 2
+Choice 2: 185
+Choice 3: 250
+Deck Count: 241
+Discard Count: 114
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3113
+Player: 1
+Choice 1: 2
+Choice 2: 294
+Choice 3: 109
+Deck Count: 338
+Discard Count: 359
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3749
+Player: 1
+Choice 1: 2
+Choice 2: 89
+Choice 3: 19
+Deck Count: 142
+Discard Count: 152
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5781
+Player: 1
+Choice 1: 2
+Choice 2: 5
+Choice 3: 3
+Deck Count: 303
+Discard Count: 452
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1567
+Player: 0
+Choice 1: 2
+Choice 2: 28
+Choice 3: 25
+Deck Count: 382
+Discard Count: 371
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8612
+Player: 0
+Choice 1: 2
+Choice 2: 200
+Choice 3: 202
+Deck Count: 19
+Discard Count: 464
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7215
+Player: 0
+Choice 1: 2
+Choice 2: 2
+Choice 3: 95
+Deck Count: 464
+Discard Count: 466
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5967
+Player: 0
+Choice 1: 2
+Choice 2: 200
+Choice 3: 236
+Deck Count: 313
+Discard Count: 5
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9416
+Player: 0
+Choice 1: 2
+Choice 2: 155
+Choice 3: 34
+Deck Count: 463
+Discard Count: 397
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6022
+Player: 0
+Choice 1: 2
+Choice 2: 430
+Choice 3: 49
+Deck Count: 322
+Discard Count: 449
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9280
+Player: 0
+Choice 1: 2
+Choice 2: 136
+Choice 3: 103
+Deck Count: 458
+Discard Count: 267
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9693
+Player: 1
+Choice 1: 2
+Choice 2: 15
+Choice 3: 106
+Deck Count: 41
+Discard Count: 138
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5956
+Player: 0
+Choice 1: 2
+Choice 2: 35
+Choice 3: 58
+Deck Count: 317
+Discard Count: 22
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4544
+Player: 1
+Choice 1: 2
+Choice 2: 177
+Choice 3: 196
+Deck Count: 153
+Discard Count: 106
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2944
+Player: 0
+Choice 1: 2
+Choice 2: 45
+Choice 3: 196
+Deck Count: 109
+Discard Count: 368
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2559
+Player: 1
+Choice 1: 2
+Choice 2: 12
+Choice 3: 11
+Deck Count: 239
+Discard Count: 342
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1698
+Player: 1
+Choice 1: 2
+Choice 2: 143
+Choice 3: 80
+Deck Count: 320
+Discard Count: 144
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4838
+Player: 1
+Choice 1: 2
+Choice 2: 82
+Choice 3: 79
+Deck Count: 390
+Discard Count: 101
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6851
+Player: 1
+Choice 1: 2
+Choice 2: 69
+Choice 3: 80
+Deck Count: 239
+Discard Count: 380
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6132
+Player: 1
+Choice 1: 2
+Choice 2: 112
+Choice 3: 76
+Deck Count: 300
+Discard Count: 26
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9429
+Player: 0
+Choice 1: 2
+Choice 2: 1
+Choice 3: 8
+Deck Count: 281
+Discard Count: 274
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 5890
+Player: 1
+Choice 1: 2
+Choice 2: 232
+Choice 3: 103
+Deck Count: 469
+Discard Count: 293
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3724
+Player: 1
+Choice 1: 2
+Choice 2: 126
+Choice 3: 158
+Deck Count: 411
+Discard Count: 326
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9053
+Player: 0
+Choice 1: 2
+Choice 2: 440
+Choice 3: 209
+Deck Count: 193
+Discard Count: 107
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 641
+Player: 0
+Choice 1: 2
+Choice 2: 245
+Choice 3: 230
+Deck Count: 187
+Discard Count: 89
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1763
+Player: 0
+Choice 1: 2
+Choice 2: 278
+Choice 3: 295
+Deck Count: 382
+Discard Count: 292
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5182
+Player: 0
+Choice 1: 2
+Choice 2: 75
+Choice 3: 142
+Deck Count: 313
+Discard Count: 287
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2549
+Player: 1
+Choice 1: 2
+Choice 2: 48
+Choice 3: 81
+Deck Count: 498
+Discard Count: 496
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3016
+Player: 0
+Choice 1: 2
+Choice 2: 237
+Choice 3: 44
+Deck Count: 74
+Discard Count: 13
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6934
+Player: 1
+Choice 1: 2
+Choice 2: 1
+Choice 3: 1
+Deck Count: 1
+Discard Count: 453
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4644
+Player: 0
+Choice 1: 2
+Choice 2: 68
+Choice 3: 325
+Deck Count: 487
+Discard Count: 206
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2213
+Player: 1
+Choice 1: 2
+Choice 2: 172
+Choice 3: 300
+Deck Count: 360
+Discard Count: 233
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 6061
+Player: 1
+Choice 1: 2
+Choice 2: 2
+Choice 3: 3
+Deck Count: 327
+Discard Count: 43
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1723
+Player: 1
+Choice 1: 2
+Choice 2: 7
+Choice 3: 5
+Deck Count: 27
+Discard Count: 336
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4694
+Player: 1
+Choice 1: 2
+Choice 2: 23
+Choice 3: 27
+Deck Count: 456
+Discard Count: 79
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1637
+Player: 0
+Choice 1: 2
+Choice 2: 193
+Choice 3: 94
+Deck Count: 439
+Discard Count: 402
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7223
+Player: 1
+Choice 1: 2
+Choice 2: 26
+Choice 3: 140
+Deck Count: 113
+Discard Count: 15
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1043
+Player: 0
+Choice 1: 2
+Choice 2: 86
+Choice 3: 243
+Deck Count: 310
+Discard Count: 445
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3907
+Player: 0
+Choice 1: 2
+Choice 2: 13
+Choice 3: 124
+Deck Count: 159
+Discard Count: 23
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2476
+Player: 1
+Choice 1: 2
+Choice 2: 225
+Choice 3: 117
+Deck Count: 229
+Discard Count: 452
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 958
+Player: 1
+Choice 1: 2
+Choice 2: 187
+Choice 3: 75
+Deck Count: 312
+Discard Count: 286
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6350
+Player: 0
+Choice 1: 2
+Choice 2: 169
+Choice 3: 90
+Deck Count: 240
+Discard Count: 284
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7583
+Player: 1
+Choice 1: 2
+Choice 2: 69
+Choice 3: 56
+Deck Count: 13
+Discard Count: 46
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3230
+Player: 1
+Choice 1: 2
+Choice 2: 186
+Choice 3: 172
+Deck Count: 498
+Discard Count: 68
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9928
+Player: 0
+Choice 1: 2
+Choice 2: 486
+Choice 3: 461
+Deck Count: 265
+Discard Count: 215
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4952
+Player: 1
+Choice 1: 2
+Choice 2: 204
+Choice 3: 390
+Deck Count: 276
+Discard Count: 171
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5609
+Player: 0
+Choice 1: 2
+Choice 2: 36
+Choice 3: 332
+Deck Count: 60
+Discard Count: 438
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3195
+Player: 0
+Choice 1: 2
+Choice 2: 10
+Choice 3: 485
+Deck Count: 427
+Discard Count: 221
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 151
+Player: 1
+Choice 1: 2
+Choice 2: 39
+Choice 3: 47
+Deck Count: 132
+Discard Count: 38
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2518
+Player: 1
+Choice 1: 2
+Choice 2: 58
+Choice 3: 88
+Deck Count: 167
+Discard Count: 376
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8267
+Player: 0
+Choice 1: 2
+Choice 2: 271
+Choice 3: 25
+Deck Count: 223
+Discard Count: 178
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6904
+Player: 1
+Choice 1: 2
+Choice 2: 367
+Choice 3: 440
+Deck Count: 483
+Discard Count: 386
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1683
+Player: 1
+Choice 1: 2
+Choice 2: 179
+Choice 3: 178
+Deck Count: 304
+Discard Count: 408
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7035
+Player: 0
+Choice 1: 2
+Choice 2: 13
+Choice 3: 3
+Deck Count: 281
+Discard Count: 205
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3794
+Player: 0
+Choice 1: 2
+Choice 2: 170
+Choice 3: 114
+Deck Count: 49
+Discard Count: 66
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4201
+Player: 1
+Choice 1: 2
+Choice 2: 154
+Choice 3: 68
+Deck Count: 187
+Discard Count: 248
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1040
+Player: 0
+Choice 1: 2
+Choice 2: 183
+Choice 3: 2
+Deck Count: 469
+Discard Count: 200
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1876
+Player: 0
+Choice 1: 2
+Choice 2: 101
+Choice 3: 390
+Deck Count: 159
+Discard Count: 296
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7679
+Player: 0
+Choice 1: 2
+Choice 2: 421
+Choice 3: 290
+Deck Count: 365
+Discard Count: 444
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7570
+Player: 1
+Choice 1: 2
+Choice 2: 69
+Choice 3: 8
+Deck Count: 128
+Discard Count: 179
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9897
+Player: 1
+Choice 1: 2
+Choice 2: 1
+Choice 3: 2
+Deck Count: 433
+Discard Count: 142
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4650
+Player: 0
+Choice 1: 2
+Choice 2: 31
+Choice 3: 219
+Deck Count: 410
+Discard Count: 463
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4427
+Player: 1
+Choice 1: 2
+Choice 2: 51
+Choice 3: 250
+Deck Count: 429
+Discard Count: 214
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8372
+Player: 0
+Choice 1: 2
+Choice 2: 2
+Choice 3: 280
+Deck Count: 285
+Discard Count: 21
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5285
+Player: 1
+Choice 1: 2
+Choice 2: 178
+Choice 3: 118
+Deck Count: 24
+Discard Count: 414
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5159
+Player: 0
+Choice 1: 2
+Choice 2: 41
+Choice 3: 40
+Deck Count: 70
+Discard Count: 269
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 905
+Player: 1
+Choice 1: 2
+Choice 2: 104
+Choice 3: 136
+Deck Count: 356
+Discard Count: 374
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1877
+Player: 0
+Choice 1: 2
+Choice 2: 70
+Choice 3: 41
+Deck Count: 487
+Discard Count: 82
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6664
+Player: 0
+Choice 1: 2
+Choice 2: 45
+Choice 3: 179
+Deck Count: 68
+Discard Count: 98
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6174
+Player: 1
+Choice 1: 2
+Choice 2: 71
+Choice 3: 218
+Deck Count: 108
+Discard Count: 113
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8796
+Player: 1
+Choice 1: 2
+Choice 2: 314
+Choice 3: 416
+Deck Count: 457
+Discard Count: 263
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9352
+Player: 0
+Choice 1: 2
+Choice 2: 214
+Choice 3: 159
+Deck Count: 485
+Discard Count: 267
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2614
+Player: 0
+Choice 1: 2
+Choice 2: 105
+Choice 3: 6
+Deck Count: 303
+Discard Count: 336
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2007
+Player: 0
+Choice 1: 2
+Choice 2: 293
+Choice 3: 169
+Deck Count: 206
+Discard Count: 395
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2595
+Player: 1
+Choice 1: 2
+Choice 2: 33
+Choice 3: 89
+Deck Count: 368
+Discard Count: 35
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8615
+Player: 1
+Choice 1: 2
+Choice 2: 92
+Choice 3: 371
+Deck Count: 419
+Discard Count: 260
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6105
+Player: 1
+Choice 1: 2
+Choice 2: 1
+Choice 3: 1
+Deck Count: 475
+Discard Count: 455
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4535
+Player: 0
+Choice 1: 2
+Choice 2: 364
+Choice 3: 333
+Deck Count: 379
+Discard Count: 320
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5391
+Player: 1
+Choice 1: 2
+Choice 2: 42
+Choice 3: 121
+Deck Count: 341
+Discard Count: 477
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2672
+Player: 1
+Choice 1: 2
+Choice 2: 228
+Choice 3: 220
+Deck Count: 232
+Discard Count: 49
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8563
+Player: 0
+Choice 1: 2
+Choice 2: 148
+Choice 3: 56
+Deck Count: 252
+Discard Count: 209
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5220
+Player: 0
+Choice 1: 2
+Choice 2: 79
+Choice 3: 164
+Deck Count: 242
+Discard Count: 426
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9927
+Player: 1
+Choice 1: 2
+Choice 2: 223
+Choice 3: 214
+Deck Count: 303
+Discard Count: 327
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 2556
+Player: 0
+Choice 1: 2
+Choice 2: 7
+Choice 3: 92
+Deck Count: 323
+Discard Count: 263
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9435
+Player: 0
+Choice 1: 2
+Choice 2: 24
+Choice 3: 41
+Deck Count: 432
+Discard Count: 131
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3241
+Player: 1
+Choice 1: 2
+Choice 2: 269
+Choice 3: 52
+Deck Count: 204
+Discard Count: 34
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 126
+Player: 0
+Choice 1: 2
+Choice 2: 142
+Choice 3: 51
+Deck Count: 17
+Discard Count: 125
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 684
+Player: 0
+Choice 1: 2
+Choice 2: 75
+Choice 3: 69
+Deck Count: 448
+Discard Count: 141
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7273
+Player: 0
+Choice 1: 2
+Choice 2: 394
+Choice 3: 266
+Deck Count: 337
+Discard Count: 254
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2061
+Player: 0
+Choice 1: 2
+Choice 2: 320
+Choice 3: 196
+Deck Count: 295
+Discard Count: 260
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 845
+Player: 0
+Choice 1: 2
+Choice 2: 245
+Choice 3: 319
+Deck Count: 153
+Discard Count: 289
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8577
+Player: 1
+Choice 1: 2
+Choice 2: 77
+Choice 3: 40
+Deck Count: 287
+Discard Count: 131
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2001
+Player: 1
+Choice 1: 2
+Choice 2: 383
+Choice 3: 27
+Deck Count: 275
+Discard Count: 317
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7300
+Player: 0
+Choice 1: 2
+Choice 2: 46
+Choice 3: 9
+Deck Count: 421
+Discard Count: 136
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2014
+Player: 1
+Choice 1: 2
+Choice 2: 96
+Choice 3: 147
+Deck Count: 418
+Discard Count: 120
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4763
+Player: 0
+Choice 1: 2
+Choice 2: 409
+Choice 3: 297
+Deck Count: 327
+Discard Count: 462
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4638
+Player: 1
+Choice 1: 2
+Choice 2: 3
+Choice 3: 58
+Deck Count: 449
+Discard Count: 92
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2297
+Player: 1
+Choice 1: 2
+Choice 2: 95
+Choice 3: 101
+Deck Count: 156
+Discard Count: 187
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8018
+Player: 1
+Choice 1: 2
+Choice 2: 415
+Choice 3: 132
+Deck Count: 231
+Discard Count: 435
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 169
+Player: 1
+Choice 1: 2
+Choice 2: 207
+Choice 3: 249
+Deck Count: 314
+Discard Count: 349
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 123
+Player: 0
+Choice 1: 2
+Choice 2: 133
+Choice 3: 18
+Deck Count: 195
+Discard Count: 340
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1016
+Player: 1
+Choice 1: 2
+Choice 2: 392
+Choice 3: 270
+Deck Count: 225
+Discard Count: 328
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3939
+Player: 1
+Choice 1: 2
+Choice 2: 151
+Choice 3: 93
+Deck Count: 266
+Discard Count: 357
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6021
+Player: 0
+Choice 1: 2
+Choice 2: 270
+Choice 3: 252
+Deck Count: 340
+Discard Count: 150
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3675
+Player: 0
+Choice 1: 2
+Choice 2: 47
+Choice 3: 82
+Deck Count: 67
+Discard Count: 178
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1040
+Player: 0
+Choice 1: 2
+Choice 2: 48
+Choice 3: 126
+Deck Count: 9
+Discard Count: 44
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1971
+Player: 1
+Choice 1: 2
+Choice 2: 199
+Choice 3: 67
+Deck Count: 375
+Discard Count: 383
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8257
+Player: 0
+Choice 1: 2
+Choice 2: 99
+Choice 3: 87
+Deck Count: 454
+Discard Count: 450
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8152
+Player: 0
+Choice 1: 2
+Choice 2: 156
+Choice 3: 50
+Deck Count: 189
+Discard Count: 251
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4194
+Player: 1
+Choice 1: 2
+Choice 2: 333
+Choice 3: 343
+Deck Count: 270
+Discard Count: 258
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7583
+Player: 0
+Choice 1: 2
+Choice 2: 21
+Choice 3: 65
+Deck Count: 172
+Discard Count: 112
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7093
+Player: 0
+Choice 1: 2
+Choice 2: 123
+Choice 3: 131
+Deck Count: 401
+Discard Count: 109
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5094
+Player: 0
+Choice 1: 2
+Choice 2: 41
+Choice 3: 182
+Deck Count: 61
+Discard Count: 61
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8072
+Player: 1
+Choice 1: 2
+Choice 2: 169
+Choice 3: 53
+Deck Count: 470
+Discard Count: 314
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8322
+Player: 1
+Choice 1: 2
+Choice 2: 105
+Choice 3: 73
+Deck Count: 259
+Discard Count: 283
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2749
+Player: 0
+Choice 1: 2
+Choice 2: 311
+Choice 3: 140
+Deck Count: 483
+Discard Count: 247
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9083
+Player: 1
+Choice 1: 2
+Choice 2: 0
+Choice 3: 3
+Deck Count: 23
+Discard Count: 43
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8882
+Player: 0
+Choice 1: 2
+Choice 2: 100
+Choice 3: 63
+Deck Count: 323
+Discard Count: 299
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2971
+Player: 1
+Choice 1: 2
+Choice 2: 255
+Choice 3: 251
+Deck Count: 481
+Discard Count: 301
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1139
+Player: 0
+Choice 1: 2
+Choice 2: 367
+Choice 3: 102
+Deck Count: 352
+Discard Count: 330
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7496
+Player: 0
+Choice 1: 2
+Choice 2: 101
+Choice 3: 135
+Deck Count: 195
+Discard Count: 163
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1409
+Player: 0
+Choice 1: 2
+Choice 2: 374
+Choice 3: 172
+Deck Count: 227
+Discard Count: 131
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7147
+Player: 0
+Choice 1: 2
+Choice 2: 244
+Choice 3: 344
+Deck Count: 95
+Discard Count: 346
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1778
+Player: 1
+Choice 1: 2
+Choice 2: 26
+Choice 3: 26
+Deck Count: 191
+Discard Count: 340
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9208
+Player: 0
+Choice 1: 2
+Choice 2: 48
+Choice 3: 15
+Deck Count: 134
+Discard Count: 4
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7917
+Player: 1
+Choice 1: 2
+Choice 2: 6
+Choice 3: 40
+Deck Count: 458
+Discard Count: 425
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8151
+Player: 0
+Choice 1: 2
+Choice 2: 26
+Choice 3: 13
+Deck Count: 63
+Discard Count: 320
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3425
+Player: 0
+Choice 1: 2
+Choice 2: 225
+Choice 3: 141
+Deck Count: 119
+Discard Count: 386
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2286
+Player: 1
+Choice 1: 2
+Choice 2: 78
+Choice 3: 121
+Deck Count: 199
+Discard Count: 417
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4616
+Player: 0
+Choice 1: 2
+Choice 2: 382
+Choice 3: 340
+Deck Count: 378
+Discard Count: 425
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7789
+Player: 1
+Choice 1: 2
+Choice 2: 217
+Choice 3: 222
+Deck Count: 466
+Discard Count: 363
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4347
+Player: 1
+Choice 1: 2
+Choice 2: 357
+Choice 3: 284
+Deck Count: 247
+Discard Count: 425
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3926
+Player: 0
+Choice 1: 2
+Choice 2: 244
+Choice 3: 83
+Deck Count: 157
+Discard Count: 356
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 701
+Player: 1
+Choice 1: 2
+Choice 2: 45
+Choice 3: 4
+Deck Count: 235
+Discard Count: 467
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8766
+Player: 0
+Choice 1: 2
+Choice 2: 24
+Choice 3: 2
+Deck Count: 116
+Discard Count: 60
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3725
+Player: 0
+Choice 1: 2
+Choice 2: 62
+Choice 3: 5
+Deck Count: 3
+Discard Count: 158
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6475
+Player: 1
+Choice 1: 2
+Choice 2: 35
+Choice 3: 55
+Deck Count: 237
+Discard Count: 389
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8190
+Player: 1
+Choice 1: 2
+Choice 2: 160
+Choice 3: 121
+Deck Count: 357
+Discard Count: 29
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7797
+Player: 1
+Choice 1: 2
+Choice 2: 17
+Choice 3: 205
+Deck Count: 193
+Discard Count: 163
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3448
+Player: 1
+Choice 1: 2
+Choice 2: 85
+Choice 3: 102
+Deck Count: 479
+Discard Count: 103
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5624
+Player: 0
+Choice 1: 2
+Choice 2: 84
+Choice 3: 357
+Deck Count: 176
+Discard Count: 281
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3278
+Player: 1
+Choice 1: 2
+Choice 2: 116
+Choice 3: 363
+Deck Count: 400
+Discard Count: 50
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2456
+Player: 0
+Choice 1: 2
+Choice 2: 151
+Choice 3: 136
+Deck Count: 471
+Discard Count: 139
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5135
+Player: 1
+Choice 1: 2
+Choice 2: 37
+Choice 3: 57
+Deck Count: 480
+Discard Count: 391
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3813
+Player: 1
+Choice 1: 2
+Choice 2: 45
+Choice 3: 27
+Deck Count: 361
+Discard Count: 139
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6678
+Player: 1
+Choice 1: 2
+Choice 2: 29
+Choice 3: 77
+Deck Count: 250
+Discard Count: 353
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 6332
+Player: 1
+Choice 1: 2
+Choice 2: 139
+Choice 3: 318
+Deck Count: 304
+Discard Count: 85
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4485
+Player: 0
+Choice 1: 2
+Choice 2: 191
+Choice 3: 41
+Deck Count: 334
+Discard Count: 477
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7771
+Player: 1
+Choice 1: 2
+Choice 2: 64
+Choice 3: 318
+Deck Count: 284
+Discard Count: 132
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5044
+Player: 1
+Choice 1: 2
+Choice 2: 154
+Choice 3: 232
+Deck Count: 380
+Discard Count: 244
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4490
+Player: 0
+Choice 1: 2
+Choice 2: 13
+Choice 3: 229
+Deck Count: 479
+Discard Count: 233
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9490
+Player: 0
+Choice 1: 2
+Choice 2: 71
+Choice 3: 3
+Deck Count: 159
+Discard Count: 442
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2205
+Player: 1
+Choice 1: 2
+Choice 2: 46
+Choice 3: 142
+Deck Count: 407
+Discard Count: 396
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8411
+Player: 0
+Choice 1: 2
+Choice 2: 6
+Choice 3: 33
+Deck Count: 260
+Discard Count: 183
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7117
+Player: 1
+Choice 1: 2
+Choice 2: 6
+Choice 3: 37
+Deck Count: 128
+Discard Count: 303
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 20
+Player: 1
+Choice 1: 2
+Choice 2: 10
+Choice 3: 0
+Deck Count: 85
+Discard Count: 129
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7087
+Player: 1
+Choice 1: 2
+Choice 2: 65
+Choice 3: 76
+Deck Count: 50
+Discard Count: 420
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4811
+Player: 1
+Choice 1: 2
+Choice 2: 355
+Choice 3: 243
+Deck Count: 89
+Discard Count: 161
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1806
+Player: 1
+Choice 1: 2
+Choice 2: 234
+Choice 3: 74
+Deck Count: 117
+Discard Count: 74
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7106
+Player: 0
+Choice 1: 2
+Choice 2: 82
+Choice 3: 116
+Deck Count: 305
+Discard Count: 61
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1420
+Player: 1
+Choice 1: 2
+Choice 2: 271
+Choice 3: 199
+Deck Count: 260
+Discard Count: 356
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7832
+Player: 1
+Choice 1: 2
+Choice 2: 13
+Choice 3: 4
+Deck Count: 52
+Discard Count: 227
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3001
+Player: 0
+Choice 1: 2
+Choice 2: 309
+Choice 3: 238
+Deck Count: 490
+Discard Count: 353
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7532
+Player: 1
+Choice 1: 2
+Choice 2: 102
+Choice 3: 58
+Deck Count: 332
+Discard Count: 188
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7989
+Player: 0
+Choice 1: 2
+Choice 2: 2
+Choice 3: 39
+Deck Count: 211
+Discard Count: 292
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 586
+Player: 0
+Choice 1: 2
+Choice 2: 42
+Choice 3: 12
+Deck Count: 458
+Discard Count: 68
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4097
+Player: 0
+Choice 1: 2
+Choice 2: 130
+Choice 3: 93
+Deck Count: 329
+Discard Count: 3
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 544
+Player: 0
+Choice 1: 2
+Choice 2: 269
+Choice 3: 168
+Deck Count: 72
+Discard Count: 317
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1633
+Player: 0
+Choice 1: 2
+Choice 2: 46
+Choice 3: 33
+Deck Count: 96
+Discard Count: 96
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 2093
+Player: 0
+Choice 1: 2
+Choice 2: 358
+Choice 3: 371
+Deck Count: 21
+Discard Count: 334
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9067
+Player: 1
+Choice 1: 2
+Choice 2: 8
+Choice 3: 59
+Deck Count: 103
+Discard Count: 2
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2236
+Player: 1
+Choice 1: 2
+Choice 2: 414
+Choice 3: 413
+Deck Count: 45
+Discard Count: 175
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2753
+Player: 0
+Choice 1: 2
+Choice 2: 40
+Choice 3: 26
+Deck Count: 276
+Discard Count: 291
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6556
+Player: 0
+Choice 1: 2
+Choice 2: 113
+Choice 3: 49
+Deck Count: 426
+Discard Count: 316
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8618
+Player: 0
+Choice 1: 2
+Choice 2: 44
+Choice 3: 47
+Deck Count: 5
+Discard Count: 14
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1923
+Player: 0
+Choice 1: 2
+Choice 2: 199
+Choice 3: 107
+Deck Count: 143
+Discard Count: 220
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2675
+Player: 0
+Choice 1: 2
+Choice 2: 193
+Choice 3: 112
+Deck Count: 422
+Discard Count: 196
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7285
+Player: 1
+Choice 1: 2
+Choice 2: 60
+Choice 3: 54
+Deck Count: 434
+Discard Count: 466
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 431
+Player: 0
+Choice 1: 2
+Choice 2: 88
+Choice 3: 429
+Deck Count: 337
+Discard Count: 405
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5524
+Player: 0
+Choice 1: 2
+Choice 2: 159
+Choice 3: 61
+Deck Count: 11
+Discard Count: 440
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1586
+Player: 0
+Choice 1: 2
+Choice 2: 25
+Choice 3: 14
+Deck Count: 166
+Discard Count: 492
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7412
+Player: 1
+Choice 1: 2
+Choice 2: 162
+Choice 3: 192
+Deck Count: 379
+Discard Count: 121
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8687
+Player: 1
+Choice 1: 2
+Choice 2: 9
+Choice 3: 5
+Deck Count: 267
+Discard Count: 174
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9650
+Player: 0
+Choice 1: 2
+Choice 2: 343
+Choice 3: 396
+Deck Count: 7
+Discard Count: 408
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3557
+Player: 1
+Choice 1: 2
+Choice 2: 179
+Choice 3: 128
+Deck Count: 108
+Discard Count: 253
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7563
+Player: 1
+Choice 1: 2
+Choice 2: 246
+Choice 3: 181
+Deck Count: 459
+Discard Count: 122
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 2991
+Player: 0
+Choice 1: 2
+Choice 2: 286
+Choice 3: 166
+Deck Count: 107
+Discard Count: 244
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3663
+Player: 1
+Choice 1: 2
+Choice 2: 238
+Choice 3: 229
+Deck Count: 249
+Discard Count: 265
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8289
+Player: 1
+Choice 1: 2
+Choice 2: 427
+Choice 3: 352
+Deck Count: 42
+Discard Count: 14
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2740
+Player: 0
+Choice 1: 2
+Choice 2: 205
+Choice 3: 112
+Deck Count: 91
+Discard Count: 188
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1368
+Player: 1
+Choice 1: 2
+Choice 2: 239
+Choice 3: 252
+Deck Count: 384
+Discard Count: 258
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3380
+Player: 0
+Choice 1: 2
+Choice 2: 10
+Choice 3: 251
+Deck Count: 332
+Discard Count: 345
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3835
+Player: 0
+Choice 1: 2
+Choice 2: 1
+Choice 3: 16
+Deck Count: 209
+Discard Count: 237
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9121
+Player: 0
+Choice 1: 2
+Choice 2: 3
+Choice 3: 380
+Deck Count: 105
+Discard Count: 462
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3220
+Player: 1
+Choice 1: 2
+Choice 2: 138
+Choice 3: 135
+Deck Count: 249
+Discard Count: 288
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 93
+Player: 1
+Choice 1: 2
+Choice 2: 323
+Choice 3: 138
+Deck Count: 486
+Discard Count: 206
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8304
+Player: 1
+Choice 1: 2
+Choice 2: 202
+Choice 3: 145
+Deck Count: 234
+Discard Count: 294
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6172
+Player: 1
+Choice 1: 2
+Choice 2: 24
+Choice 3: 40
+Deck Count: 348
+Discard Count: 208
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 816
+Player: 1
+Choice 1: 2
+Choice 2: 83
+Choice 3: 19
+Deck Count: 6
+Discard Count: 385
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4770
+Player: 0
+Choice 1: 2
+Choice 2: 293
+Choice 3: 174
+Deck Count: 447
+Discard Count: 63
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6528
+Player: 0
+Choice 1: 2
+Choice 2: 182
+Choice 3: 142
+Deck Count: 2
+Discard Count: 2
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5682
+Player: 0
+Choice 1: 2
+Choice 2: 36
+Choice 3: 116
+Deck Count: 402
+Discard Count: 184
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 2354
+Player: 0
+Choice 1: 2
+Choice 2: 418
+Choice 3: 352
+Deck Count: 161
+Discard Count: 342
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 382
+Player: 1
+Choice 1: 2
+Choice 2: 83
+Choice 3: 7
+Deck Count: 329
+Discard Count: 423
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3072
+Player: 1
+Choice 1: 2
+Choice 2: 102
+Choice 3: 243
+Deck Count: 338
+Discard Count: 46
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 338
+Player: 0
+Choice 1: 2
+Choice 2: 254
+Choice 3: 321
+Deck Count: 492
+Discard Count: 173
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2164
+Player: 0
+Choice 1: 2
+Choice 2: 10
+Choice 3: 117
+Deck Count: 170
+Discard Count: 94
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 764
+Player: 0
+Choice 1: 2
+Choice 2: 86
+Choice 3: 11
+Deck Count: 358
+Discard Count: 478
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4212
+Player: 0
+Choice 1: 2
+Choice 2: 66
+Choice 3: 237
+Deck Count: 154
+Discard Count: 140
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 51
+Player: 1
+Choice 1: 2
+Choice 2: 361
+Choice 3: 186
+Deck Count: 213
+Discard Count: 251
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5029
+Player: 1
+Choice 1: 2
+Choice 2: 69
+Choice 3: 32
+Deck Count: 281
+Discard Count: 408
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 47
+Player: 1
+Choice 1: 2
+Choice 2: 334
+Choice 3: 91
+Deck Count: 278
+Discard Count: 371
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 277
+Player: 1
+Choice 1: 2
+Choice 2: 46
+Choice 3: 295
+Deck Count: 48
+Discard Count: 368
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9280
+Player: 0
+Choice 1: 2
+Choice 2: 50
+Choice 3: 21
+Deck Count: 46
+Discard Count: 60
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5532
+Player: 0
+Choice 1: 2
+Choice 2: 111
+Choice 3: 187
+Deck Count: 470
+Discard Count: 242
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 555
+Player: 1
+Choice 1: 2
+Choice 2: 198
+Choice 3: 34
+Deck Count: 379
+Discard Count: 446
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4454
+Player: 1
+Choice 1: 2
+Choice 2: 144
+Choice 3: 87
+Deck Count: 179
+Discard Count: 9
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9557
+Player: 1
+Choice 1: 2
+Choice 2: 140
+Choice 3: 432
+Deck Count: 126
+Discard Count: 445
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3355
+Player: 1
+Choice 1: 2
+Choice 2: 21
+Choice 3: 324
+Deck Count: 99
+Discard Count: 269
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9060
+Player: 1
+Choice 1: 2
+Choice 2: 35
+Choice 3: 20
+Deck Count: 208
+Discard Count: 323
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5815
+Player: 1
+Choice 1: 2
+Choice 2: 63
+Choice 3: 89
+Deck Count: 202
+Discard Count: 47
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4778
+Player: 1
+Choice 1: 2
+Choice 2: 367
+Choice 3: 117
+Deck Count: 357
+Discard Count: 127
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 177
+Player: 0
+Choice 1: 2
+Choice 2: 39
+Choice 3: 4
+Deck Count: 84
+Discard Count: 134
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8282
+Player: 1
+Choice 1: 2
+Choice 2: 198
+Choice 3: 269
+Deck Count: 329
+Discard Count: 303
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6880
+Player: 1
+Choice 1: 2
+Choice 2: 186
+Choice 3: 192
+Deck Count: 13
+Discard Count: 167
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2630
+Player: 0
+Choice 1: 2
+Choice 2: 26
+Choice 3: 11
+Deck Count: 100
+Discard Count: 171
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5894
+Player: 1
+Choice 1: 2
+Choice 2: 154
+Choice 3: 22
+Deck Count: 247
+Discard Count: 331
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 5863
+Player: 0
+Choice 1: 2
+Choice 2: 113
+Choice 3: 218
+Deck Count: 277
+Discard Count: 385
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8430
+Player: 1
+Choice 1: 2
+Choice 2: 452
+Choice 3: 41
+Deck Count: 136
+Discard Count: 319
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8791
+Player: 1
+Choice 1: 2
+Choice 2: 153
+Choice 3: 188
+Deck Count: 183
+Discard Count: 467
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8129
+Player: 0
+Choice 1: 2
+Choice 2: 8
+Choice 3: 4
+Deck Count: 8
+Discard Count: 327
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6592
+Player: 1
+Choice 1: 2
+Choice 2: 156
+Choice 3: 25
+Deck Count: 261
+Discard Count: 359
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1008
+Player: 0
+Choice 1: 2
+Choice 2: 17
+Choice 3: 33
+Deck Count: 238
+Discard Count: 229
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 821
+Player: 1
+Choice 1: 2
+Choice 2: 29
+Choice 3: 38
+Deck Count: 162
+Discard Count: 55
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 913
+Player: 1
+Choice 1: 2
+Choice 2: 115
+Choice 3: 302
+Deck Count: 479
+Discard Count: 76
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 5140
+Player: 1
+Choice 1: 2
+Choice 2: 20
+Choice 3: 148
+Deck Count: 404
+Discard Count: 14
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4675
+Player: 0
+Choice 1: 2
+Choice 2: 322
+Choice 3: 268
+Deck Count: 472
+Discard Count: 92
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5221
+Player: 1
+Choice 1: 2
+Choice 2: 115
+Choice 3: 163
+Deck Count: 277
+Discard Count: 2
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1409
+Player: 1
+Choice 1: 2
+Choice 2: 72
+Choice 3: 46
+Deck Count: 196
+Discard Count: 371
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6009
+Player: 1
+Choice 1: 2
+Choice 2: 383
+Choice 3: 4
+Deck Count: 95
+Discard Count: 351
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3074
+Player: 0
+Choice 1: 2
+Choice 2: 245
+Choice 3: 286
+Deck Count: 493
+Discard Count: 49
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2689
+Player: 1
+Choice 1: 2
+Choice 2: 29
+Choice 3: 4
+Deck Count: 268
+Discard Count: 436
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5800
+Player: 0
+Choice 1: 2
+Choice 2: 146
+Choice 3: 61
+Deck Count: 329
+Discard Count: 124
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 6057
+Player: 1
+Choice 1: 2
+Choice 2: 46
+Choice 3: 54
+Deck Count: 286
+Discard Count: 175
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 507
+Player: 0
+Choice 1: 2
+Choice 2: 87
+Choice 3: 51
+Deck Count: 264
+Discard Count: 227
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 5240
+Player: 1
+Choice 1: 2
+Choice 2: 26
+Choice 3: 73
+Deck Count: 124
+Discard Count: 235
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 2428
+Player: 0
+Choice 1: 2
+Choice 2: 224
+Choice 3: 56
+Deck Count: 40
+Discard Count: 298
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5731
+Player: 1
+Choice 1: 2
+Choice 2: 231
+Choice 3: 113
+Deck Count: 329
+Discard Count: 433
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 233
+Player: 0
+Choice 1: 2
+Choice 2: 336
+Choice 3: 341
+Deck Count: 190
+Discard Count: 496
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5434
+Player: 0
+Choice 1: 2
+Choice 2: 69
+Choice 3: 81
+Deck Count: 401
+Discard Count: 484
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8790
+Player: 1
+Choice 1: 2
+Choice 2: 163
+Choice 3: 105
+Deck Count: 186
+Discard Count: 290
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9841
+Player: 0
+Choice 1: 2
+Choice 2: 17
+Choice 3: 337
+Deck Count: 271
+Discard Count: 338
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8446
+Player: 0
+Choice 1: 2
+Choice 2: 130
+Choice 3: 197
+Deck Count: 354
+Discard Count: 39
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7458
+Player: 1
+Choice 1: 2
+Choice 2: 56
+Choice 3: 40
+Deck Count: 363
+Discard Count: 121
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3269
+Player: 1
+Choice 1: 2
+Choice 2: 16
+Choice 3: 29
+Deck Count: 18
+Discard Count: 391
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1967
+Player: 1
+Choice 1: 2
+Choice 2: 75
+Choice 3: 313
+Deck Count: 134
+Discard Count: 232
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1954
+Player: 0
+Choice 1: 2
+Choice 2: 98
+Choice 3: 352
+Deck Count: 14
+Discard Count: 81
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3922
+Player: 0
+Choice 1: 2
+Choice 2: 70
+Choice 3: 80
+Deck Count: 111
+Discard Count: 1
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5257
+Player: 0
+Choice 1: 2
+Choice 2: 35
+Choice 3: 88
+Deck Count: 412
+Discard Count: 486
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7489
+Player: 1
+Choice 1: 2
+Choice 2: 103
+Choice 3: 6
+Deck Count: 26
+Discard Count: 258
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3999
+Player: 0
+Choice 1: 2
+Choice 2: 13
+Choice 3: 9
+Deck Count: 254
+Discard Count: 294
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2808
+Player: 1
+Choice 1: 2
+Choice 2: 6
+Choice 3: 0
+Deck Count: 82
+Discard Count: 21
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4435
+Player: 0
+Choice 1: 2
+Choice 2: 45
+Choice 3: 51
+Deck Count: 87
+Discard Count: 149
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5652
+Player: 0
+Choice 1: 2
+Choice 2: 97
+Choice 3: 196
+Deck Count: 119
+Discard Count: 500
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3757
+Player: 0
+Choice 1: 2
+Choice 2: 68
+Choice 3: 53
+Deck Count: 211
+Discard Count: 90
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2049
+Player: 1
+Choice 1: 2
+Choice 2: 57
+Choice 3: 96
+Deck Count: 304
+Discard Count: 138
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4781
+Player: 0
+Choice 1: 2
+Choice 2: 6
+Choice 3: 53
+Deck Count: 239
+Discard Count: 100
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5935
+Player: 0
+Choice 1: 2
+Choice 2: 5
+Choice 3: 2
+Deck Count: 2
+Discard Count: 314
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8296
+Player: 0
+Choice 1: 2
+Choice 2: 50
+Choice 3: 28
+Deck Count: 323
+Discard Count: 379
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 527
+Player: 1
+Choice 1: 2
+Choice 2: 444
+Choice 3: 434
+Deck Count: 54
+Discard Count: 281
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1143
+Player: 0
+Choice 1: 2
+Choice 2: 28
+Choice 3: 60
+Deck Count: 267
+Discard Count: 178
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 4341
+Player: 0
+Choice 1: 2
+Choice 2: 317
+Choice 3: 184
+Deck Count: 109
+Discard Count: 466
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5256
+Player: 0
+Choice 1: 2
+Choice 2: 3
+Choice 3: 197
+Deck Count: 22
+Discard Count: 369
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4377
+Player: 0
+Choice 1: 2
+Choice 2: 0
+Choice 3: 0
+Deck Count: 308
+Discard Count: 319
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7997
+Player: 0
+Choice 1: 2
+Choice 2: 92
+Choice 3: 243
+Deck Count: 82
+Discard Count: 490
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8716
+Player: 0
+Choice 1: 2
+Choice 2: 255
+Choice 3: 75
+Deck Count: 393
+Discard Count: 380
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1566
+Player: 0
+Choice 1: 2
+Choice 2: 89
+Choice 3: 41
+Deck Count: 251
+Discard Count: 169
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6028
+Player: 1
+Choice 1: 2
+Choice 2: 301
+Choice 3: 314
+Deck Count: 21
+Discard Count: 261
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1059
+Player: 0
+Choice 1: 2
+Choice 2: 17
+Choice 3: 52
+Deck Count: 32
+Discard Count: 20
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 6054
+Player: 0
+Choice 1: 2
+Choice 2: 22
+Choice 3: 361
+Deck Count: 275
+Discard Count: 349
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8318
+Player: 0
+Choice 1: 2
+Choice 2: 18
+Choice 3: 28
+Deck Count: 259
+Discard Count: 29
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4464
+Player: 0
+Choice 1: 2
+Choice 2: 2
+Choice 3: 0
+Deck Count: 274
+Discard Count: 265
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3321
+Player: 0
+Choice 1: 2
+Choice 2: 1
+Choice 3: 14
+Deck Count: 358
+Discard Count: 53
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 934
+Player: 1
+Choice 1: 2
+Choice 2: 56
+Choice 3: 132
+Deck Count: 476
+Discard Count: 141
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8386
+Player: 1
+Choice 1: 2
+Choice 2: 137
+Choice 3: 36
+Deck Count: 57
+Discard Count: 334
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3727
+Player: 0
+Choice 1: 2
+Choice 2: 115
+Choice 3: 90
+Deck Count: 51
+Discard Count: 381
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 4817
+Player: 1
+Choice 1: 2
+Choice 2: 26
+Choice 3: 4
+Deck Count: 4
+Discard Count: 354
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3222
+Player: 1
+Choice 1: 2
+Choice 2: 17
+Choice 3: 196
+Deck Count: 191
+Discard Count: 182
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5356
+Player: 0
+Choice 1: 2
+Choice 2: 1
+Choice 3: 1
+Deck Count: 302
+Discard Count: 124
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2063
+Player: 1
+Choice 1: 2
+Choice 2: 235
+Choice 3: 443
+Deck Count: 45
+Discard Count: 268
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7527
+Player: 0
+Choice 1: 2
+Choice 2: 19
+Choice 3: 106
+Deck Count: 249
+Discard Count: 367
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9821
+Player: 0
+Choice 1: 2
+Choice 2: 18
+Choice 3: 59
+Deck Count: 114
+Discard Count: 105
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 204
+Player: 0
+Choice 1: 2
+Choice 2: 0
+Choice 3: 0
+Deck Count: 264
+Discard Count: 173
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4068
+Player: 0
+Choice 1: 2
+Choice 2: 235
+Choice 3: 337
+Deck Count: 265
+Discard Count: 100
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3902
+Player: 1
+Choice 1: 2
+Choice 2: 59
+Choice 3: 13
+Deck Count: 57
+Discard Count: 382
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5925
+Player: 0
+Choice 1: 2
+Choice 2: 75
+Choice 3: 106
+Deck Count: 154
+Discard Count: 462
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9086
+Player: 1
+Choice 1: 2
+Choice 2: 59
+Choice 3: 24
+Deck Count: 446
+Discard Count: 25
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2755
+Player: 0
+Choice 1: 2
+Choice 2: 178
+Choice 3: 291
+Deck Count: 241
+Discard Count: 230
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3319
+Player: 0
+Choice 1: 2
+Choice 2: 7
+Choice 3: 12
+Deck Count: 309
+Discard Count: 59
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6493
+Player: 0
+Choice 1: 2
+Choice 2: 135
+Choice 3: 265
+Deck Count: 409
+Discard Count: 356
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9739
+Player: 1
+Choice 1: 2
+Choice 2: 315
+Choice 3: 320
+Deck Count: 147
+Discard Count: 353
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1665
+Player: 0
+Choice 1: 2
+Choice 2: 134
+Choice 3: 67
+Deck Count: 264
+Discard Count: 445
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2063
+Player: 0
+Choice 1: 2
+Choice 2: 44
+Choice 3: 135
+Deck Count: 277
+Discard Count: 275
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5936
+Player: 1
+Choice 1: 2
+Choice 2: 310
+Choice 3: 53
+Deck Count: 217
+Discard Count: 57
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8961
+Player: 0
+Choice 1: 2
+Choice 2: 190
+Choice 3: 149
+Deck Count: 330
+Discard Count: 263
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2764
+Player: 1
+Choice 1: 2
+Choice 2: 64
+Choice 3: 64
+Deck Count: 204
+Discard Count: 310
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9730
+Player: 0
+Choice 1: 2
+Choice 2: 12
+Choice 3: 66
+Deck Count: 12
+Discard Count: 121
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 464
+Player: 0
+Choice 1: 2
+Choice 2: 23
+Choice 3: 11
+Deck Count: 424
+Discard Count: 363
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3350
+Player: 0
+Choice 1: 2
+Choice 2: 143
+Choice 3: 186
+Deck Count: 239
+Discard Count: 319
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4140
+Player: 1
+Choice 1: 2
+Choice 2: 42
+Choice 3: 14
+Deck Count: 105
+Discard Count: 446
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2984
+Player: 1
+Choice 1: 2
+Choice 2: 182
+Choice 3: 101
+Deck Count: 407
+Discard Count: 21
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5390
+Player: 0
+Choice 1: 2
+Choice 2: 102
+Choice 3: 68
+Deck Count: 328
+Discard Count: 282
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9545
+Player: 0
+Choice 1: 2
+Choice 2: 211
+Choice 3: 293
+Deck Count: 168
+Discard Count: 474
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8038
+Player: 0
+Choice 1: 2
+Choice 2: 51
+Choice 3: 43
+Deck Count: 443
+Discard Count: 84
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9149
+Player: 0
+Choice 1: 2
+Choice 2: 3
+Choice 3: 64
+Deck Count: 67
+Discard Count: 341
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9124
+Player: 1
+Choice 1: 2
+Choice 2: 108
+Choice 3: 171
+Deck Count: 405
+Discard Count: 326
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9318
+Player: 0
+Choice 1: 2
+Choice 2: 314
+Choice 3: 129
+Deck Count: 491
+Discard Count: 52
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7037
+Player: 0
+Choice 1: 2
+Choice 2: 333
+Choice 3: 299
+Deck Count: 404
+Discard Count: 224
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9754
+Player: 1
+Choice 1: 2
+Choice 2: 204
+Choice 3: 5
+Deck Count: 70
+Discard Count: 327
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2308
+Player: 0
+Choice 1: 2
+Choice 2: 191
+Choice 3: 229
+Deck Count: 318
+Discard Count: 267
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1638
+Player: 0
+Choice 1: 2
+Choice 2: 150
+Choice 3: 112
+Deck Count: 329
+Discard Count: 59
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3266
+Player: 0
+Choice 1: 2
+Choice 2: 44
+Choice 3: 22
+Deck Count: 446
+Discard Count: 373
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 8171
+Player: 1
+Choice 1: 2
+Choice 2: 82
+Choice 3: 52
+Deck Count: 362
+Discard Count: 54
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8261
+Player: 0
+Choice 1: 2
+Choice 2: 120
+Choice 3: 199
+Deck Count: 362
+Discard Count: 169
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5971
+Player: 0
+Choice 1: 2
+Choice 2: 269
+Choice 3: 153
+Deck Count: 204
+Discard Count: 463
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2298
+Player: 1
+Choice 1: 2
+Choice 2: 174
+Choice 3: 249
+Deck Count: 106
+Discard Count: 79
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7404
+Player: 1
+Choice 1: 2
+Choice 2: 207
+Choice 3: 181
+Deck Count: 74
+Discard Count: 62
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2442
+Player: 0
+Choice 1: 2
+Choice 2: 240
+Choice 3: 150
+Deck Count: 159
+Discard Count: 403
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8749
+Player: 1
+Choice 1: 2
+Choice 2: 0
+Choice 3: 1
+Deck Count: 213
+Discard Count: 269
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6549
+Player: 1
+Choice 1: 2
+Choice 2: 58
+Choice 3: 40
+Deck Count: 230
+Discard Count: 262
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9540
+Player: 0
+Choice 1: 2
+Choice 2: 328
+Choice 3: 130
+Deck Count: 156
+Discard Count: 45
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3732
+Player: 0
+Choice 1: 2
+Choice 2: 158
+Choice 3: 148
+Deck Count: 88
+Discard Count: 45
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7311
+Player: 1
+Choice 1: 2
+Choice 2: 230
+Choice 3: 155
+Deck Count: 353
+Discard Count: 461
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8016
+Player: 0
+Choice 1: 2
+Choice 2: 42
+Choice 3: 90
+Deck Count: 198
+Discard Count: 55
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 2494
+Player: 0
+Choice 1: 2
+Choice 2: 252
+Choice 3: 60
+Deck Count: 7
+Discard Count: 326
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 5579
+Player: 1
+Choice 1: 2
+Choice 2: 32
+Choice 3: 49
+Deck Count: 290
+Discard Count: 330
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4014
+Player: 1
+Choice 1: 2
+Choice 2: 228
+Choice 3: 3
+Deck Count: 26
+Discard Count: 187
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 50
+Player: 1
+Choice 1: 2
+Choice 2: 31
+Choice 3: 5
+Deck Count: 474
+Discard Count: 392
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6488
+Player: 1
+Choice 1: 2
+Choice 2: 85
+Choice 3: 143
+Deck Count: 246
+Discard Count: 160
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2591
+Player: 1
+Choice 1: 2
+Choice 2: 32
+Choice 3: 166
+Deck Count: 458
+Discard Count: 486
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1493
+Player: 0
+Choice 1: 2
+Choice 2: 340
+Choice 3: 247
+Deck Count: 206
+Discard Count: 283
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1536
+Player: 1
+Choice 1: 2
+Choice 2: 94
+Choice 3: 199
+Deck Count: 146
+Discard Count: 128
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3131
+Player: 0
+Choice 1: 2
+Choice 2: 68
+Choice 3: 95
+Deck Count: 385
+Discard Count: 276
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9969
+Player: 0
+Choice 1: 2
+Choice 2: 80
+Choice 3: 53
+Deck Count: 335
+Discard Count: 230
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5732
+Player: 1
+Choice 1: 2
+Choice 2: 117
+Choice 3: 151
+Deck Count: 361
+Discard Count: 142
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5171
+Player: 0
+Choice 1: 2
+Choice 2: 167
+Choice 3: 54
+Deck Count: 441
+Discard Count: 274
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9442
+Player: 0
+Choice 1: 2
+Choice 2: 196
+Choice 3: 102
+Deck Count: 43
+Discard Count: 138
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7872
+Player: 0
+Choice 1: 2
+Choice 2: 15
+Choice 3: 67
+Deck Count: 486
+Discard Count: 244
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6623
+Player: 0
+Choice 1: 2
+Choice 2: 149
+Choice 3: 162
+Deck Count: 455
+Discard Count: 157
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9442
+Player: 1
+Choice 1: 2
+Choice 2: 261
+Choice 3: 272
+Deck Count: 11
+Discard Count: 266
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 1804
+Player: 1
+Choice 1: 2
+Choice 2: 269
+Choice 3: 268
+Deck Count: 54
+Discard Count: 278
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1529
+Player: 1
+Choice 1: 2
+Choice 2: 17
+Choice 3: 24
+Deck Count: 447
+Discard Count: 348
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9695
+Player: 1
+Choice 1: 2
+Choice 2: 123
+Choice 3: 190
+Deck Count: 104
+Discard Count: 413
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8460
+Player: 1
+Choice 1: 2
+Choice 2: 63
+Choice 3: 6
+Deck Count: 67
+Discard Count: 307
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1753
+Player: 0
+Choice 1: 2
+Choice 2: 282
+Choice 3: 304
+Deck Count: 290
+Discard Count: 450
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6770
+Player: 0
+Choice 1: 2
+Choice 2: 82
+Choice 3: 3
+Deck Count: 444
+Discard Count: 169
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1567
+Player: 1
+Choice 1: 2
+Choice 2: 330
+Choice 3: 441
+Deck Count: 376
+Discard Count: 291
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4121
+Player: 0
+Choice 1: 2
+Choice 2: 166
+Choice 3: 193
+Deck Count: 223
+Discard Count: 469
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 186
+Player: 0
+Choice 1: 2
+Choice 2: 272
+Choice 3: 303
+Deck Count: 345
+Discard Count: 131
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9359
+Player: 1
+Choice 1: 2
+Choice 2: 227
+Choice 3: 100
+Deck Count: 93
+Discard Count: 340
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 4354
+Player: 1
+Choice 1: 2
+Choice 2: 4
+Choice 3: 41
+Deck Count: 435
+Discard Count: 251
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7669
+Player: 0
+Choice 1: 2
+Choice 2: 28
+Choice 3: 42
+Deck Count: 352
+Discard Count: 472
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4014
+Player: 0
+Choice 1: 2
+Choice 2: 165
+Choice 3: 194
+Deck Count: 185
+Discard Count: 415
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5039
+Player: 0
+Choice 1: 2
+Choice 2: 64
+Choice 3: 94
+Deck Count: 80
+Discard Count: 22
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1705
+Player: 1
+Choice 1: 2
+Choice 2: 58
+Choice 3: 186
+Deck Count: 465
+Discard Count: 121
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2092
+Player: 0
+Choice 1: 2
+Choice 2: 64
+Choice 3: 85
+Deck Count: 56
+Discard Count: 132
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5593
+Player: 1
+Choice 1: 2
+Choice 2: 284
+Choice 3: 111
+Deck Count: 361
+Discard Count: 323
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3309
+Player: 1
+Choice 1: 2
+Choice 2: 24
+Choice 3: 49
+Deck Count: 389
+Discard Count: 14
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5260
+Player: 0
+Choice 1: 2
+Choice 2: 170
+Choice 3: 152
+Deck Count: 432
+Discard Count: 8
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5251
+Player: 1
+Choice 1: 2
+Choice 2: 28
+Choice 3: 109
+Deck Count: 354
+Discard Count: 333
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4426
+Player: 1
+Choice 1: 2
+Choice 2: 72
+Choice 3: 69
+Deck Count: 175
+Discard Count: 106
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7200
+Player: 0
+Choice 1: 2
+Choice 2: 395
+Choice 3: 208
+Deck Count: 481
+Discard Count: 428
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5741
+Player: 1
+Choice 1: 2
+Choice 2: 68
+Choice 3: 86
+Deck Count: 365
+Discard Count: 131
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 302
+Player: 1
+Choice 1: 2
+Choice 2: 417
+Choice 3: 370
+Deck Count: 43
+Discard Count: 416
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5352
+Player: 1
+Choice 1: 2
+Choice 2: 73
+Choice 3: 89
+Deck Count: 255
+Discard Count: 272
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7176
+Player: 1
+Choice 1: 2
+Choice 2: 154
+Choice 3: 255
+Deck Count: 468
+Discard Count: 453
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 4610
+Player: 0
+Choice 1: 2
+Choice 2: 26
+Choice 3: 232
+Deck Count: 283
+Discard Count: 320
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6955
+Player: 1
+Choice 1: 2
+Choice 2: 304
+Choice 3: 441
+Deck Count: 143
+Discard Count: 222
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 4289
+Player: 1
+Choice 1: 2
+Choice 2: 96
+Choice 3: 19
+Deck Count: 336
+Discard Count: 67
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7891
+Player: 1
+Choice 1: 2
+Choice 2: 91
+Choice 3: 98
+Deck Count: 396
+Discard Count: 102
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 632
+Player: 1
+Choice 1: 2
+Choice 2: 248
+Choice 3: 246
+Deck Count: 387
+Discard Count: 196
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3963
+Player: 0
+Choice 1: 2
+Choice 2: 160
+Choice 3: 130
+Deck Count: 70
+Discard Count: 39
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1685
+Player: 1
+Choice 1: 2
+Choice 2: 123
+Choice 3: 283
+Deck Count: 312
+Discard Count: 3
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6785
+Player: 1
+Choice 1: 2
+Choice 2: 228
+Choice 3: 354
+Deck Count: 139
+Discard Count: 284
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3212
+Player: 0
+Choice 1: 2
+Choice 2: 59
+Choice 3: 93
+Deck Count: 207
+Discard Count: 368
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 4864
+Player: 0
+Choice 1: 2
+Choice 2: 263
+Choice 3: 272
+Deck Count: 470
+Discard Count: 418
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1473
+Player: 1
+Choice 1: 2
+Choice 2: 207
+Choice 3: 283
+Deck Count: 428
+Discard Count: 477
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 5049
+Player: 0
+Choice 1: 2
+Choice 2: 22
+Choice 3: 203
+Deck Count: 375
+Discard Count: 126
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1356
+Player: 1
+Choice 1: 2
+Choice 2: 46
+Choice 3: 77
+Deck Count: 234
+Discard Count: 415
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7666
+Player: 1
+Choice 1: 2
+Choice 2: 231
+Choice 3: 19
+Deck Count: 245
+Discard Count: 332
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8973
+Player: 0
+Choice 1: 2
+Choice 2: 295
+Choice 3: 0
+Deck Count: 180
+Discard Count: 343
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4446
+Player: 1
+Choice 1: 2
+Choice 2: 110
+Choice 3: 100
+Deck Count: 117
+Discard Count: 495
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 6360
+Player: 1
+Choice 1: 2
+Choice 2: 219
+Choice 3: 28
+Deck Count: 130
+Discard Count: 425
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9846
+Player: 0
+Choice 1: 2
+Choice 2: 332
+Choice 3: 164
+Deck Count: 449
+Discard Count: 312
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2373
+Player: 0
+Choice 1: 2
+Choice 2: 125
+Choice 3: 204
+Deck Count: 252
+Discard Count: 447
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9359
+Player: 1
+Choice 1: 2
+Choice 2: 261
+Choice 3: 185
+Deck Count: 184
+Discard Count: 401
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7573
+Player: 1
+Choice 1: 2
+Choice 2: 41
+Choice 3: 305
+Deck Count: 8
+Discard Count: 406
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8341
+Player: 0
+Choice 1: 2
+Choice 2: 6
+Choice 3: 24
+Deck Count: 462
+Discard Count: 391
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2216
+Player: 0
+Choice 1: 2
+Choice 2: 16
+Choice 3: 16
+Deck Count: 479
+Discard Count: 333
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2577
+Player: 0
+Choice 1: 2
+Choice 2: 19
+Choice 3: 52
+Deck Count: 284
+Discard Count: 134
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 17
+Player: 1
+Choice 1: 2
+Choice 2: 92
+Choice 3: 170
+Deck Count: 472
+Discard Count: 375
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8565
+Player: 0
+Choice 1: 2
+Choice 2: 44
+Choice 3: 185
+Deck Count: 442
+Discard Count: 147
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2031
+Player: 0
+Choice 1: 2
+Choice 2: 187
+Choice 3: 93
+Deck Count: 145
+Discard Count: 202
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6640
+Player: 0
+Choice 1: 2
+Choice 2: 6
+Choice 3: 151
+Deck Count: 319
+Discard Count: 297
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3644
+Player: 0
+Choice 1: 2
+Choice 2: 67
+Choice 3: 37
+Deck Count: 108
+Discard Count: 441
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5193
+Player: 1
+Choice 1: 2
+Choice 2: 17
+Choice 3: 11
+Deck Count: 161
+Discard Count: 388
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3539
+Player: 0
+Choice 1: 2
+Choice 2: 104
+Choice 3: 170
+Deck Count: 208
+Discard Count: 255
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 3413
+Player: 0
+Choice 1: 2
+Choice 2: 88
+Choice 3: 20
+Deck Count: 360
+Discard Count: 398
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 3364
+Player: 1
+Choice 1: 2
+Choice 2: 171
+Choice 3: 270
+Deck Count: 232
+Discard Count: 167
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9278
+Player: 1
+Choice 1: 2
+Choice 2: 124
+Choice 3: 96
+Deck Count: 93
+Discard Count: 299
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7671
+Player: 0
+Choice 1: 2
+Choice 2: 153
+Choice 3: 107
+Deck Count: 347
+Discard Count: 224
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4300
+Player: 0
+Choice 1: 2
+Choice 2: 271
+Choice 3: 143
+Deck Count: 247
+Discard Count: 257
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7430
+Player: 0
+Choice 1: 2
+Choice 2: 214
+Choice 3: 325
+Deck Count: 74
+Discard Count: 33
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 6004
+Player: 0
+Choice 1: 2
+Choice 2: 388
+Choice 3: 115
+Deck Count: 460
+Discard Count: 451
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 2965
+Player: 1
+Choice 1: 2
+Choice 2: 61
+Choice 3: 147
+Deck Count: 233
+Discard Count: 436
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 9882
+Player: 0
+Choice 1: 2
+Choice 2: 231
+Choice 3: 313
+Deck Count: 215
+Discard Count: 329
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4241
+Player: 0
+Choice 1: 2
+Choice 2: 165
+Choice 3: 38
+Deck Count: 371
+Discard Count: 468
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1289
+Player: 1
+Choice 1: 2
+Choice 2: 92
+Choice 3: 167
+Deck Count: 486
+Discard Count: 459
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1140
+Player: 1
+Choice 1: 2
+Choice 2: 181
+Choice 3: 348
+Deck Count: 238
+Discard Count: 141
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 430
+Player: 0
+Choice 1: 2
+Choice 2: 223
+Choice 3: 14
+Deck Count: 156
+Discard Count: 453
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 907
+Player: 0
+Choice 1: 2
+Choice 2: 287
+Choice 3: 243
+Deck Count: 298
+Discard Count: 98
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 5286
+Player: 0
+Choice 1: 2
+Choice 2: 9
+Choice 3: 9
+Deck Count: 493
+Discard Count: 471
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 8200
+Player: 1
+Choice 1: 2
+Choice 2: 326
+Choice 3: 391
+Deck Count: 223
+Discard Count: 437
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7826
+Player: 0
+Choice 1: 2
+Choice 2: 178
+Choice 3: 229
+Deck Count: 103
+Discard Count: 180
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 4070
+Player: 1
+Choice 1: 2
+Choice 2: 33
+Choice 3: 296
+Deck Count: 134
+Discard Count: 345
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9748
+Player: 0
+Choice 1: 2
+Choice 2: 85
+Choice 3: 91
+Deck Count: 490
+Discard Count: 182
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 4629
+Player: 0
+Choice 1: 2
+Choice 2: 49
+Choice 3: 111
+Deck Count: 4
+Discard Count: 280
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9177
+Player: 1
+Choice 1: 2
+Choice 2: 82
+Choice 3: 75
+Deck Count: 117
+Discard Count: 347
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 3108
+Player: 0
+Choice 1: 2
+Choice 2: 236
+Choice 3: 429
+Deck Count: 254
+Discard Count: 385
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 1230
+Player: 1
+Choice 1: 2
+Choice 2: 54
+Choice 3: 6
+Deck Count: 1
+Discard Count: 188
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 694
+Player: 0
+Choice 1: 2
+Choice 2: 300
+Choice 3: 350
+Deck Count: 18
+Discard Count: 44
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9410
+Player: 0
+Choice 1: 2
+Choice 2: 402
+Choice 3: 435
+Deck Count: 266
+Discard Count: 346
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 6321
+Player: 0
+Choice 1: 2
+Choice 2: 429
+Choice 3: 317
+Deck Count: 499
+Discard Count: 162
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 7181
+Player: 0
+Choice 1: 2
+Choice 2: 454
+Choice 3: 203
+Deck Count: 14
+Discard Count: 80
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 2867
+Player: 0
+Choice 1: 2
+Choice 2: 127
+Choice 3: 127
+Deck Count: 149
+Discard Count: 193
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 5141
+Player: 1
+Choice 1: 2
+Choice 2: 33
+Choice 3: 44
+Deck Count: 25
+Discard Count: 235
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 9147
+Player: 0
+Choice 1: 2
+Choice 2: 24
+Choice 3: 148
+Deck Count: 412
+Discard Count: 160
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 6166
+Player: 0
+Choice 1: 2
+Choice 2: 7
+Choice 3: 298
+Deck Count: 45
+Discard Count: 185
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 9989
+Player: 1
+Choice 1: 2
+Choice 2: 96
+Choice 3: 100
+Deck Count: 434
+Discard Count: 316
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 7743
+Player: 0
+Choice 1: 2
+Choice 2: 12
+Choice 3: 268
+Deck Count: 417
+Discard Count: 35
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8499
+Player: 1
+Choice 1: 2
+Choice 2: 272
+Choice 3: 137
+Deck Count: 164
+Discard Count: 421
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 8200
+Player: 1
+Choice 1: 2
+Choice 2: 23
+Choice 3: 39
+Deck Count: 247
+Discard Count: 112
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+----------------- Failure Details: ----------------
+Seed: 1311
+Player: 1
+Choice 1: 2
+Choice 2: 47
+Choice 3: 36
+Deck Count: 28
+Discard Count: 323
+
+Expected coin count to increase by 2
+Before Coin Count: 3
+After Coin Count: 6
+----------------- Failure Details: ----------------
+Seed: 592
+Player: 1
+Choice 1: 2
+Choice 2: 86
+Choice 3: 145
+Deck Count: 476
+Discard Count: 251
+
+Expected coin count to increase by 2
+Before Coin Count: 5
+After Coin Count: 8
+----------------- Failure Details: ----------------
+Seed: 7322
+Player: 1
+Choice 1: 2
+Choice 2: 334
+Choice 3: 77
+Deck Count: 34
+Discard Count: 266
+
+Expected coin count to increase by 2
+Before Coin Count: 4
+After Coin Count: 7
+Number of errors found: 488
+Number of tests conducted: 2000
+----------------- Testing Complete ----------------
+Function 'updateCoins'
+Lines executed:81.82% of 11
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+
+Function 'discardCard'
+Lines executed:100.00% of 13
+
+Function 'cardEffect'
+Lines executed:4.15% of 193
+
+Function 'stewardEffect'
+Lines executed:100.00% of 10
+
+Function 'feastEffect'
+Lines executed:0.00% of 18
+
+Function 'villageEffect'
+Lines executed:0.00% of 5
+
+Function 'smithyEffect'
+Lines executed:0.00% of 5
+
+Function 'adventurerEffect'
+Lines executed:0.00% of 17
+
+Function 'getCost'
+Lines executed:0.00% of 30
+
+Function 'drawCard'
+Lines executed:95.45% of 22
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+
+Function 'whoseTurn'
+Lines executed:100.00% of 2
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+
+Function 'handCard'
+Lines executed:0.00% of 3
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+
+Function 'playCard'
+Lines executed:0.00% of 14
+
+Function 'shuffle'
+Lines executed:93.75% of 16
+
+Function 'initializeGame'
+Lines executed:80.65% of 62
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+
+Function 'newGame'
+Lines executed:0.00% of 3
+
+Function 'compare'
+Lines executed:83.33% of 6
+
+File 'dominion.c'
+Lines executed:23.75% of 560
+Creating 'dominion.c.gcov'
+
